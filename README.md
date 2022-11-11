@@ -1,7 +1,7 @@
 # Week 3 Challenge
 
 ## Description
-This repository contains an edited HTML and edited CSS file that were changed in order to better the overall flow and visibilty of the code. The project instructions were to take an existing webpage and conform the code within to better it overall. Some of the criteria was when you viewed the code you can find semantic HTML elements, the code follwoed a logical structure, the given photo elements were given alternitive attributes to eaiser label them, and the page was given a concise and descriptive title.  
+This repository contains an HTML file and a CSS file that was created in order to attempt to create a random password generating webiste. The project instructions were to take the given file and add code to make a fully functional webpage. The webpage should include options to select certain criteria for a desired passcode, and then have the ability to actually create the passcode.
 
 ## Installation
 
@@ -9,11 +9,10 @@ N/A
 
 ## Usage
 
-To use and view the HtML and CSS files, navigate throught the files included and open both respectfully. These files can be used as a template for other projects to show the correct format and usage of different HTML and CSS elements. 
+To use this webpage, one would simply follow the link and provide wanted criteria for a password, and then click the generate button to recieve a password between 8 and 128 characters. 
 
 ## Website URL
 
-https://peckham4563.github.io/Peckham-Horiseon-Repo/
 
 ![Screenshot](/Other/"Webpage Screenshot")
 
